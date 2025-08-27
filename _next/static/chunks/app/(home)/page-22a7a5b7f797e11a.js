@@ -186,14 +186,14 @@
                   className: "space-x-4 lg:flex hidden ml-[20px]",
                   children: [
                     (0, a.jsx)("a", {
-                      href: "https://app.starlight.foundation",
+                      href: "https://app.raydiadefi.org",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "px-4 text-base py-2 btn-def font-semibold",
                       children: (0, a.jsx)("span", { children: "Open App" }),
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4e2932da3add92dfdc6beb687e0c557d1509c5eb",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "px-4 text-base py-2 btn-def font-semibold",
@@ -697,7 +697,7 @@
                         className: "relative w-full",
                         children: [
                           (0, a.jsx)("a", {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4e2932da3add92dfdc6beb687e0c557d1509c5eb",
                             target: "_blank",
                             rel: "noreferrer",
                             className: "px-4 py-2 btn-def h-9 w-full",
@@ -1700,7 +1700,7 @@
                             className: "relative w-full",
                             children: [
                               (0, a.jsx)("a", {
-                                href: "https://app.starlight.foundation",
+                                href: "https://app.raydiadefi.org",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 className:
@@ -1804,7 +1804,7 @@
                         (0, a.jsx)("figcaption", {
                           className:
                             "-mt-24 transition-all absolute text-white group-hover:text-[#D2C7FF]",
-                          children: "CA: 0xcomingsoon",
+                          children: "CA: 0x4e2932da3add92dfdc6beb687e0c557d1509c5eb",
                         }),
                       ],
                     }),
@@ -2545,7 +2545,7 @@
                   "flex xs:flex-row flex-col w-full xs:w-auto mx-auto gap-4 mt-2 px-4",
                 children: [
                   (0, a.jsx)("a", {
-                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0x4e2932da3add92dfdc6beb687e0c557d1509c5eb",
                     target: "_blank",
                     rel: "noreferrer",
                     className: "px-4 py-2 h-[40px] btn-def leading-normal",
