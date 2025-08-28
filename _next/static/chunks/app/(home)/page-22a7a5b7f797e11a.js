@@ -1260,7 +1260,7 @@
                   }),
                   !i &&
                     (0, a.jsx)("a", {
-                      href: "https://docs",
+                      href: "https://docs.raydiadefi.org",
                       target: "_blank",
                       rel: "noreferrer",
                       className:
